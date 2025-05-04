@@ -1,0 +1,7 @@
+fashionfit-ai/
+├── app.py
+├── requirements.txt
+├── README.md
+└── sample_images/
+    ├── outfit1.jpg
+    └── jacket.png
