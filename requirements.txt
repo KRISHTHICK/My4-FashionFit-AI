@@ -9,6 +9,10 @@ sentence-transformers
 bs4
 ollama
 
+#pip install easyocr
+#pip install torch torchvision torchaudio
+
+
 # pip install -r requirements.txt
 # ollama run tinyllama
 # streamlit run app.py
