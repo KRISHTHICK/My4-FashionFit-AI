@@ -1,0 +1,10 @@
+streamlit
+pytesseract
+Pillow
+matplotlib
+seaborn
+langchain
+faiss-cpu
+sentence-transformers
+bs4
+ollama
